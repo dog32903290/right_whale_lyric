@@ -139,15 +139,15 @@ The room backs out of what it heard
 
 La tableta brilla frente al consultorio  
 La lista de idiomas no llega al final  
-Alguien toca la casilla mas rapida  
+Alguien toca la casilla más rápida  
 La pantalla vuelve a torcer un apellido  
 
-La pulsera cierra sobre la muneca  
+La pulsera cierra sobre la muñeca  
 Falta una vuelta de garganta  
 El letrero parpadea  
 El cuarto retrocede hacia el pasillo  
 
-El audifono aun no queda firme  
+El audífono aún no queda firme  
 El nombre toma forma de formulario  
 Un dedo espera sobre Enter  
 El pasillo calla, esperando que algo falte  
@@ -155,35 +155,35 @@ El pasillo calla, esperando que algo falte
 Se detiene antes de enviar  
 El cursor prende en la puerta  
 Enter suspendido en la mano  
-Esa voz ya no mira atras  
+Esa voz ya no mira atrás  
 
 El dedo se queda  
-El nombre aun no alcanza para entrar  
+El nombre aún no alcanza para entrar  
 Al letrero le falta una voz  
 Y el cuarto se aleja sin entender  
 
-En casa tambien se apaga una letra  
+En casa también se apaga una letra  
 El cuaderno pregunta: mi lengua materna  
 Migas de goma junto al espacio  
 Otra nota familiar sin escuchar  
 
 La voz de la abuela toca mucho tiempo  
-El nino baja el volumen y lo cierra  
+El niño baja el volumen y lo cierra  
 No es que no quiera volver  
 Es que al oirla pierde un poco de su nombre  
 
 Se detiene antes de enviar  
 El cursor prende en la puerta  
 Enter suspendido en la mano  
-Esa voz ya no mira atras  
+Esa voz ya no mira atrás  
 
 El dedo se queda  
-El nombre aun no alcanza para entrar  
+El nombre aún no alcanza para entrar  
 Al letrero le falta una voz  
 Y el cuarto se aleja sin entender  
 
 La ventana pregunta la fecha de nacimiento  
-La fecha todavia sabe salir  
+La fecha todavía sabe salir  
 Pero nombre y apellido, delante y detras  
 Se ordenan en una puerta ajena  
 
@@ -195,9 +195,9 @@ La nota perdida respira junto a la rendija
 Se detiene antes de enviar  
 El cursor prende en la puerta  
 Enter suspendido en la mano  
-Esa voz ya no mira atras  
+Esa voz ya no mira atrás  
 
-El dedo sigue ahi  
-El nombre aun no alcanza para entrar  
+El dedo sigue ahí  
+El nombre aún no alcanza para entrar  
 Al letrero le falta otra voz  
 Y el cuarto se aleja sin entender  
